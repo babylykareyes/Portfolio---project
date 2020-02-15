@@ -1,0 +1,240 @@
+*{
+    padding: 0px;
+    margin:10 px;
+}
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+    font-family: "Monserrat";
+}
+@font-face{
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: "Merriweather";
+}
+.header{
+    background-color: rgba(178, 244, 247, 0.349);
+    padding-top: 130px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.cloud1{
+    position:absolute;
+    right: 30px;
+    top: 60px;
+    height:30px;
+    padding-top: 2rem;
+    
+}
+.cloud2{
+    position:absolute;
+    left: 20px;
+    top: 500px;
+    height: 50px;
+    padding-right: 50px;
+}
+.Akyl{
+    font-family: Sacramento ;
+    font-size: 70px;
+    color: rgb(3, 141, 118);
+}
+.akyl-sub{
+    font-family: Monserrat;
+    color:black;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.mountain{
+    height: 200px;
+    width: 300px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+.profile{
+    background-color: rgba(178, 244, 247, 0.349);
+    text-align: center;
+}
+#dp{
+    border-radius: 50%;
+    height: 200px;
+    width:150px;
+    margin-top:10px;
+    margin-bottom: 15px;
+}
+.hello{
+    font-family: Sacramento;
+    font-size: 40px;
+    font-weight:bold;
+    color:rgb(3, 141, 118);
+    text-align: center;
+    padding-top: 20px;
+}
+.aboutme{
+    font-family: Monserrat;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.skills{
+    font-family: Sacramento;
+    font-size: 70px;
+    color:rgb(3, 141, 118);
+    text-align: center;
+    padding-bottom: 30px;
+}
+.chess{
+    background-color: rgba(178, 244, 247, 0.349);
+    font-size: 20px;
+    padding-top: 20px;
+}
+.chess-pic{
+    float: left;
+    width: 150px;
+    height: 200px;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-right: 50px;
+}
+#chess-title{
+    font-family:"Merriweather";
+    font-size: 30px;
+    color:rgb(3, 141, 118);
+    text-align: left;
+    margin-bottom: 30px;
+}
+.chess-content{
+    font-family: Monserrat;
+    color:black;
+    text-align: left;
+    margin-right: 30px;
+    line-height: 30px;
+    display: inline;
+}
+.rare{
+    margin-right: 50px;
+    margin-left:50px;
+    font-size: 20px;
+}
+.rare-pic{
+    float: right;
+    width: 150px;
+    height: 200px;
+    padding-right: 20px;
+
+}
+#rare-title{
+    font-family:"Merriweather";
+    font-size: 30px;
+    color:rgb(3, 141, 118);
+    text-align: left;
+    margin-left: 30px;
+}
+.rare-content{
+    font-family: Monserrat;
+    color:black;
+    text-align: left;
+    margin-right: 30px;
+    line-height: 30px;
+    display: inline;
+}
+.photo{
+    margin-right: 45px;
+    margin-left:45px;
+    font-size: 20px;
+}
+.photo-pic{
+    float: left;
+    width: 150px;
+    height: 200px;
+    padding-left: 20px;
+    margin-right: 50px;
+}
+#photo-title{
+    font-family:"Merriweather";
+    font-size: 30px;
+    color:rgb(3, 141, 118);
+    text-align: left;
+    margin-bottom: 30px;
+}
+.photo-content{
+    font-family: Monserrat;
+    color:black;
+    text-align: left;
+    margin-right: 30px;
+    display: inline;
+}
+.git{
+    margin-right: 0px;
+    margin-left:0px;
+}
+.contact{
+    text-align: center;
+    font-family: Monserrat;
+}
+#git-title{
+    margin-bottom: 10px;
+    font-family: Sacramento;
+    font-size: 70px;
+    color:rgb(3, 141, 118);
+    font-weight:bolder;
+    text-align: center;
+}
+#let{
+    font-family: Merriweather;
+    color:rgb(15, 175, 187);
+    font-weight:lighter;
+}
+#qoute{
+    padding-top:5%;
+    color: black;
+    line-height:30px;
+}
+.contactme{
+    display:inline-block;
+    background-color: aquamarine;
+    color:rgb(15, 175, 187);
+    margin-bottom:90px;
+    padding:15px;
+    border-radius: 50%;
+    text-decoration: none;
+}
+.footer{
+    height:100px;
+    background-color:rgba(45, 173, 182, 0.822);
+    text-align: center;
+    padding: 30px;
+    padding-bottom:0px;
+    color:white;
+}
+.facebook{
+    text-decoration: none;
+    font-family:Merriweather;
+    padding:30px;
+    color:rgb(12, 119, 122);
+}
+.instagram{
+    text-decoration: none;
+    font-family:Merriweather;
+    padding:30px;
+    color:rgb(12, 119, 122);
+}
+.facebook:hover{
+    text-decoration:none;
+    font-family:Merriweather;
+    padding:30px;
+    color:blue;
+    font-weight:bolder;
+}
+.instagram:hover{
+    text-decoration:none;
+    font-family:Merriweather;
+    padding:30px;
+    color:blue;
+    font-weight:bolder;
+}
+
+
