@@ -1,0 +1,186 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    background-color: rgb(255, 255, 74);
+}
+@font-face{
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-family: mon;
+}
+@font-face{
+    src: url(../fonts/AdreenaScript-Demo.ttf);
+    font-family: ad;
+}
+.visit{
+    text-decoration: none;
+    font-family: ad;
+    font-size: 30px;
+    color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+    line-height: 250%;
+}
+.visit1{
+    text-decoration: none;
+    font-family: mon;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    padding-left: 45%;
+    padding-right: 45%;
+    display: inline-block;
+}
+.visit1:hover{
+    text-decoration: none;
+    font-family: mon;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.del1{
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.dp1{
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.jogno1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.lalic1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.lar1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.log1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.magca1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.mago1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.mag1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.mangg1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.mil1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.mor1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.pen1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.re1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.rey1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.sen1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.sol1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.uy1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.val1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+.one1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 20%;
+}
+.vall1{
+    width: 300px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+
+}
